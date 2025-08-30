@@ -37,7 +37,7 @@ This project uses a webcam and computer vision techniques to **automatically swi
 ### Installation
 
 ```bash
-git clone https://github.com/rishabhgaur22/Automatic-headlight-switcher.git
+git clone https://github.com/ankitphaugat/Automatic-headlight-switcher.git
 cd Automatic-headlight-switcher
 pip install -r requirements.txt 
 python new.py
